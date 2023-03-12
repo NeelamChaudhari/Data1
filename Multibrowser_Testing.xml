@@ -1,0 +1,20 @@
+
+<suite name="Suite" parallel="tests">
+  <test  name="Test_Chrome">
+	  <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="selenium_Prog_Practice.MultiBrowser_Testing1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test  name="Test_FireFox">
+	  <parameter name="browserName" value="FireFox"/>
+    <classes>
+      <class name="selenium_Prog_Practice.MultiBrowser_Testing1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+</suite> <!-- Suite -->

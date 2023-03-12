@@ -1,0 +1,10 @@
+
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="testngProg.testsuite"/>
+      <class name="testngProg.suitetestng"/>
+      <class name="testngProg.testngProg"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

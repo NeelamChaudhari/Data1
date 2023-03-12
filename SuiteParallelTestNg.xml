@@ -1,0 +1,10 @@
+
+<suite name="Suite" parallel="Test">
+  <test  name="Test">
+    <classes>
+      <class name="selenium_Prog_Practice.Parallel1"/>
+      <class name="selenium_Prog_Practice.parallel2"/>
+      <class name="selenium_Prog_Practice.parallel"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

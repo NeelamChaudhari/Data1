@@ -1,0 +1,30 @@
+
+
+<suite  name="Suite">
+ <test  name="Test_Chrome">
+	  <Parameter name="BrowserName" value="Chrome"/>
+		  
+			 <classes> 
+			  <class name="multi_TestNg.Multibrowser" />
+			   </classes>
+			   
+			
+			
+			   </test>
+			   
+			   
+			 
+			   <test  name="Test_FireFox">
+	  <parameter name="BrowserName" value="FireFox"/>
+	
+			 <classes> 
+			  <class name="multi_TestNg.Multibrowser"/>
+			   </classes>
+		  
+
+  </test> <!-- Test -->
+</suite> <!-- Suite --> 
+	  
+	  
+	  
+ 

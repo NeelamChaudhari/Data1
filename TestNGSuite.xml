@@ -1,0 +1,9 @@
+
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="selenium_Prog_Practice.testNg_Class2"/>
+      <class name="selenium_Prog_Practice.TestNg_Annotations"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

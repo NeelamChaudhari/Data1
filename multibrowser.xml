@@ -1,0 +1,24 @@
+
+
+<suite name="Suite" parallel ="none">
+  <test  name="Test_Chrome">
+	  <Parameters name="BrowserName" value="Chrome"></Parameters>
+		  <class>
+			 <classes> 
+			  <class name="Multibrowser" ></class>
+			   </classes>
+			   
+			   </class>
+			   </test>
+			   
+			   
+			   <test  name="Test_FireFox">
+	  <parameter name="BrowserName" value="FireFox">
+		  <class>
+			 <classes> 
+			  <class name="Multibrowser" ></class>
+			   </classes>
+		  </class>
+	  </parameter>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
